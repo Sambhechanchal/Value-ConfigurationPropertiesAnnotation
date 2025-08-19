@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "catalog.ajFee",
+    "type": "java.lang.String",
+    "description": "A description for 'catalog.ajFee'"
+  },
+  {
+    "name": "catalog.spbmsFee",
+    "type": "java.lang.String",
+    "description": "A description for 'catalog.spbmsFee'"
+  },
+  {
+    "name": "catalog.reactFee",
+    "type": "java.lang.String",
+    "description": "A description for 'catalog.reactFee'"
+  },
+  {
+    "name": "catalog.devops",
+    "type": "java.lang.String",
+    "description": "A description for 'catalog.devops'"
+  },
+  {
+    "name": "catalog.cjFee",
+    "type": "java.lang.String",
+    "description": "A description for 'catalog.cjFee'"
+  },
+  {
+    "name": "catalog.aws",
+    "type": "java.lang.String",
+    "description": "A description for 'catalog.aws'"
+  }
+]}
