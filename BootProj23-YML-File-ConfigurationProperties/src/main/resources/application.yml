@@ -1,0 +1,43 @@
+# application.yml file to configure data
+
+spring:
+   application:
+      name: BootIOCProj19-ValueAnnotation
+
+# course details
+org:
+   nt:
+      cjFee: 3500
+      ajFee: 3000
+      spbmsFee: 4000
+      reactFee: 2500
+      oracleFee: 2000
+      awsFee: 2000
+      devopsFee: 200
+
+# string array
+      favColor:
+         - red
+         - blue
+         - green
+#list 
+      friends:
+         -chanchal
+         -achal
+         -sakshi
+#Set
+      phones:
+         - 77777777
+         - 88888888
+         - 99999999
+#Map
+      details:
+         voterid: 9876987345
+         adharno: 9899012060
+         pan: 9864mvxu735	
+# has-a property
+      company:
+         id: 10001
+         name: hcl
+         addrs: hyd
+         size: 3000
